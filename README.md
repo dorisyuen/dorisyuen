@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dorisyuen/dorisyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +21,4 @@ I have finished a Data Science bootcamp, but I am currently still learning Pytho
 
 Projects
 Sale Report(2019-20) by Power BI
--->
+
