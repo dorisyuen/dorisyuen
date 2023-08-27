@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: She /Ｈｅｒ ⚡ Fun fact: I spend most of my time reading Books and watching Netfix Programming Languages 🚀
+
+Tools 🔥
+
+Aditya's github statsTop Langs
+
+Connect with me 😃
 Portfolio
 Data Analyst📈
 Happy to see you yaaaaa I am Doris who based in Manchester
