@@ -1,5 +1,6 @@
 ### Hi I'm Doris there 👋
-https://img.shields.io/badge/:badgeContent?label=Profile%20Views&labelColor=hex&color=hsl
+![Static Badge](https://img.shields.io/badge/:badgeContent?label=Profile%20Views&labelColor=hex&color=hsl)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
