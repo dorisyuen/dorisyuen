@@ -1,7 +1,4 @@
 ### Hi I'm Doris there 👋
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?label=Profile%20Views&labelColor=hex&color=hsl">
-
-
 
 
 
