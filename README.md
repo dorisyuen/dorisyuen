@@ -1,5 +1,7 @@
 ### Hi I'm Doris there 👋
-![Static Badge](https://img.shields.io/badge/:badgeContent?label=Profile%20Views&labelColor=hex&color=hsl)
+.. image:: https://img.shields.io/badge/:badgeContent?label=Profile%20Views&labelColor=hex&color=hsl
+:   alt: Static Badge
+
 
 
 - 🔭 I’m currently working on ...
